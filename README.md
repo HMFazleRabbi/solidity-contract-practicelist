@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# Practice Smart contract Projects 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This contains multiple smartcontracts that demonstrates various solidity concepts and use cases. It comes with a  a script that deploys that contract.
 
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
+npm install
 npx hardhat run scripts/deploy.ts
 ```
